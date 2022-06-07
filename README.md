@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @togrul2
-- 👀 I’m interested in web development
-- I'm practicing python and its different frameworks and libraries
+- 👀 I’m a web developer
+- I'm working with python and its different frameworks and libraries
 
 
 <!---
